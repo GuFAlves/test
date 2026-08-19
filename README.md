@@ -28,10 +28,6 @@ python app.py
 
 A aplicação irá subir em:
 
-- http://localhost:8080/health
-- http://localhost:8080/run
-- http://localhost:8080/status
-
 ## Endpoints
 
 ### GET /health
